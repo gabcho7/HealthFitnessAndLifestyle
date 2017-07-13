@@ -1,0 +1,12 @@
+Jul 13 2017 16:22:31
+{"Number":2,"Message":"fopen(C:\\Bitnami\\wordpress-4.7-0\\apps\\wordpress\\htdocs\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\sopms5zi0ehg\\filemap.list): failed to open stream: No such file or directory","File":"C:\\Bitnami\\wordpress-4.7-0\\apps\\wordpress\\htdocs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-content.php","Line":81}
+
+Jul 13 2017 16:22:31
+{"Number":2,"Message":"fseek() expects parameter 1 to be resource, boolean given","File":"C:\\Bitnami\\wordpress-4.7-0\\apps\\wordpress\\htdocs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-content.php","Line":90}
+
+Jul 13 2017 16:22:31
+{"Number":2,"Message":"fgets() expects parameter 1 to be resource, boolean given","File":"C:\\Bitnami\\wordpress-4.7-0\\apps\\wordpress\\htdocs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-content.php","Line":95}
+
+Jul 13 2017 16:22:31
+{"Number":2,"Message":"fclose() expects parameter 1 to be resource, boolean given","File":"C:\\Bitnami\\wordpress-4.7-0\\apps\\wordpress\\htdocs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-content.php","Line":175}
+
